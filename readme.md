@@ -50,9 +50,9 @@ Mục tiêu cụ thể:
 Dự án sử dụng ngăn xếp công nghệ hiện đại, dễ mở rộng và triển khai thực tế:
 
 * **Frontend**: React Native + TypeScript (Expo CLI)
-* **Backend**: Nest
+* **Backend**: NestJS
 * **Database**: MongoDB Atlas
-* JSJWT Authentication – Xác thực và bảo mật tài khoản người dùng.
+* JWT Authentication – Xác thực và bảo mật tài khoản người dùng.
 * Bản đồ & định vị: expo-location, react-native-maps
 
 ## 5. Các chức năng cốt lõi
