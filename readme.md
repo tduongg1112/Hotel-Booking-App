@@ -2,7 +2,7 @@
 
 ---
 
-1. Giới thiệu tổng quan
+## 1. Giới thiệu tổng quan
 
 **Hotel Booking App** là ứng dụng di động giúp người dùng tìm kiếm, so sánh và đặt phòng khách sạn nhanh chóng, tiện lợi.
 Ứng dụng được thiết kế theo hướng đa nền tảng (Android/iOS), cung cấp trải nghiệm trực quan, giao diện thân thiện và hệ thống quản lý đặt phòng hiện đại.
@@ -41,8 +41,7 @@ Mục tiêu cụ thể:
 * Người dùng có nhu cầu đặt phòng khách sạn, homestay, resort trong nước hoặc quốc tế.
 * Độ tuổi từ 18 – 45, có điện thoại thông minh.
 * Người thích du lịch, công tác, phượt, hoặc thuê phòng ngắn hạn.
-
-Các chủ khách sạn nhỏ muốn quản lý thông tin phòng, đặt chỗ, đánh giá dễ dàng.
+* Các chủ khách sạn nhỏ muốn quản lý thông tin phòng, đặt chỗ, đánh giá dễ dàng.
 
 ---
 
@@ -54,7 +53,7 @@ Dự án sử dụng ngăn xếp công nghệ hiện đại, dễ mở rộng v�
 * **Backend**: Nest
 * **Database**: MongoDB Atlas
 * JSJWT Authentication – Xác thực và bảo mật tài khoản người dùng.
-* Bản đồ & định vị:expo-location, react-native-maps
+* Bản đồ & định vị: expo-location, react-native-maps
 
 ## 5. Các chức năng cốt lõi
 ### 5.1. Đăng nhập và bảo mật
