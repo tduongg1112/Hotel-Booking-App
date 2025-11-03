@@ -45,7 +45,7 @@ Mục tiêu cụ thể:
 
 ---
 
-4. Công nghệ sử dụng
+## 4. Công nghệ sử dụng
 
 Dự án sử dụng ngăn xếp công nghệ hiện đại, dễ mở rộng và triển khai thực tế:
 
